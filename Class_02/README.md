@@ -4,4 +4,7 @@
    - Tab poga
 2. Komandas
    - OS noskaidrošana - ```uname```
-      - visas informācijas noskaidrošana - ```uname -a```
+      - visas informācijas noskaidrošana - ```uname -a```  
+
+yacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$  man mkdir
+vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ mkdir ABC
