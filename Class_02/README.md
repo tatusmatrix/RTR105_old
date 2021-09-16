@@ -6,5 +6,7 @@
    - OS noskaidrošana - ```uname```
       - visas informācijas noskaidrošana - ```uname -a```  
 
-```yacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$  man mkdir
-vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ mkdir ABC```
+```
+yacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$  man mkdir  
+vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ mkdir ABC
+```
