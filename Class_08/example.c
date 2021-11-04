@@ -8,10 +8,12 @@ int main ()
   double d;
 
   printf ("Enter number: ");
+  fflush(stdout);
   scanf ("%d",&i);
   printf ("Your number - %d\n",i);
 
   printf ("Enter symbol: ");
+  fflush(stdout);
   scanf (" %c",&c);
   printf ("Your symbol - %c\n",c);
 
@@ -20,6 +22,8 @@ int main ()
   // d = 1000000.;
   d = 1.e6;
   printf ("Your real number - %.3f\n",d);
+
+  
 
   return 0;
 }
