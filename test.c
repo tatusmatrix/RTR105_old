@@ -6,7 +6,9 @@ int main()
 	int target=1000;
 	float rate = 0.1;
 	int year = 0;
-	do
+	48 % 24.5;
+
+        do
 	{
 		float interest = balance * rate;
 		balance = balance + interest;
